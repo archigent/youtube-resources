@@ -4,6 +4,7 @@
 
 | 발행일 | 영상 | 자료 |
 |---|---|---|
+| 2026-11-23 | [제미나이 총정리, 왕초보도 오늘 바로 쓰는 10가지 (무료로 되는 것까지)](https://youtu.be/qVd0xSGtESo) | [자료](./2026-11-20-gemini-complete-guide) |
 | 2026-07-09 | [클로드 코드, 이 파일 하나면 딴 AI 됩니다 (기본 세팅법)](https://youtu.be/KDoR_cCTa7E) | [자료](./2026-07-09-claude-code-basic-setup) |
 | 2026-07-01 | [코드 없이 만든 클로드 주식 비서, 매일 아침 카톡 옵니다](https://youtu.be/9vCIhHROcs0) | [자료](./2026-07-01-claude-stock-briefing) |
 | 2026-06-26 | [AI 회의록 정리, 담당자·기한까지 자동으로 — 클로드 코드](https://youtu.be/3cxIHfFTFKI) | [자료](./2026-06-26-ai-meeting-minutes) |
